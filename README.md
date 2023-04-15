@@ -1,5 +1,7 @@
 # House-sales-in-King-County
 
+Dataset can be found here:  https://www.kaggle.com/datasets/gargaar/kc-house-data-nan
+
 ## This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 ## Features presented in the dataset:
